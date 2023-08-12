@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arman-karamii
-- 👀 I’m interested in Android and php development 
-- 🌱 I’m currently learning PHP
+- 👀 I’m interested in Android development 
+- 🌱 I’m currently learning jetpack compose in kotlin for android srudio
 - 💞️ I’m looking to collaborate on any remote project 
 - 📫 How to reach me : armankarami.job@gmail.com
 
